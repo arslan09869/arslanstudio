@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <polygon points="115,12 82,78 106,78 82,148 162,72 136,72 164,12" fill="#111"/>
+  <text x="100" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#111">FASTIFY</text>
+  <text x="100" y="193" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="400" letter-spacing="3" fill="#888">FAST &amp; LOW OVERHEAD</text>
+</svg>
